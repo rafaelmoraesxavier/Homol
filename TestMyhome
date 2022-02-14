@@ -45,13 +45,13 @@
 			'https://ltmhomolog-ltmloyaltyvip.cs195.force.com/chatbots',
 			gslbBaseURL,
 			'00D020000004dJp',
-			'My_Home_My_Office',
+			'MyHomeHomol',
 			{
 				baseLiveAgentContentURL: 'https://c.la2-c1cs-ia4.salesforceliveagent.com/content',
 				deploymentId: '5721V000000M49L',
-				buttonId: '5731L000000D7lL',
+				buttonId: '57302000000005Z',
 				baseLiveAgentURL: 'https://d.la2-c1cs-ia4.salesforceliveagent.com/chat',
-				eswLiveAgentDevName: 'My_Home_My_Office',
+				eswLiveAgentDevName: 'MyHomeHomol',
 				isOfflineSupportEnabled: false
 			}
 		);
